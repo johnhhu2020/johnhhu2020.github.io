@@ -1,5 +1,10 @@
 ## Welcome to John's GitHub Pages
 
+title: John H
+description: Data Scientist
+logo: https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Flinux-logo%2F&psig=AOvVaw0IKRMqifQgrmJ-G5fzvfnk&ust=1643901212126000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDzwomv4PUCFQAAAAAdAAAAABAD
+show_downloads: false
+
 You can use the [editor on GitHub](https://github.com/johnhhu2020/johnhhu2020.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
