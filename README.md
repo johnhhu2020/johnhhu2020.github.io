@@ -1,7 +1,7 @@
 ## Welcome to John's GitHub Pages
 
 title: John H
-description: Data Scientist
+description: John's
 logo: https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Flinux-logo%2F&psig=AOvVaw0IKRMqifQgrmJ-G5fzvfnk&ust=1643901212126000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDzwomv4PUCFQAAAAAdAAAAABAD
 show_downloads: false
 
